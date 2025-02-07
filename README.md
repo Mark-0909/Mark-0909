@@ -1,6 +1,6 @@
 ## Hi there, I'm Mark J. 👋  
 
-💻 **Software Developer | Problem Solver | Tech Enthusiast**  
+💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Qwizo**.  
