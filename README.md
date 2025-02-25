@@ -3,8 +3,8 @@
 💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on **Qwizo**.  
-- 🌱 Learning and improving my skills in **Web Development**.  
+- 🔭 I’m currently working on **Arcane Mayhen**.  
+- 🌱 Learning and improving my skills in **Game Development**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
 ### 🧰 Languages and Tools  
