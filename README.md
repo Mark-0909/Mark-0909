@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Arcane Mayhen**.  
-- 🌱 Learning and improving my skills in **Game Development**.  
+- 🌱 Learning and improving my skills in **Game Development** using **godot**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
 ### 🧰 Languages and Tools  
