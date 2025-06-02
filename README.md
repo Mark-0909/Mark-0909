@@ -3,7 +3,7 @@
 💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on my Final game project **Type Wizard: Tower Defense** and **Vectraze** XD.  
+- 🔭 I’m currently working on my Final game project **Type Wizard: Tower Defense** XD.  
 - 🌱 Learning and improving my skills in **Game Development** using **godot**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
