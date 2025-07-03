@@ -3,7 +3,7 @@
 💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
-- 🔭 I’m currently working on Nothing As of now XD.  
+- 🔭 I’m currently looking for OJT programs.  
 - 🌱 Learning and improving my skills in **Game Development** using **godot**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
