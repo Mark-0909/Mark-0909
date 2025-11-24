@@ -3,8 +3,8 @@
 💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
-- 🔭 I’m currently looking for OJT programs.  
-- 🌱 Learning and improving my skills in **Game Development** using **godot**.  
+- 🔭 I’m currently looking for nothing.  
+- 🌱 Learning and improving my skills in **Scraping** using **python**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
 ### 🧰 Languages and Tools  
