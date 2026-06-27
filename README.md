@@ -3,8 +3,8 @@
 💻 **Computer Science Student | Developer | Innovator**  
 
 ### 🚀 About Me  
-- 🔭 I’m currently looking for nothing.  
-- 🌱 Learning and improving my skills in **Scraping** using **python**.  
+- 🔭 I’m currently looking for job.  
+- 🌱 Learning and improving my skills in **Java** and **C#**.  
 - ⚡ Fun fact: I once debugged a bug that didn't exist... **until it did.** 😆  
 
 ### 🧰 Languages and Tools  
